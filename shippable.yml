@@ -17,6 +17,6 @@ script:
   
 #build_image: shippable/minv2
 #build_image: gcr.io/molten-method-94423/1204_nodejs
-commit_container: gcr.io/molten-method-94423/1204_nodejs_output
+#commit_container: gcr.io/molten-method-94423/1204_nodejs_output
 
-#cache: true
+cache: true
