@@ -16,7 +16,7 @@ script:
   - true
   
 #build_image: shippable/minv2
-build_image: gcr.io/infinite-sight-93921/ubuntu1204_nodejs:latest
-commit_container: gcr.io/infinite-sight-93921/sample_node_1
+build_image: gcr.io/molten-method-94423/1204_nodejs
+commit_container: gcr.io/molten-method-94423/1204_nodejs_output
 
 #cache: true
